@@ -1,0 +1,42 @@
+.titulo span{
+    color: #f716ac ;
+}
+
+.nav-link{
+    color: #272121 ;
+
+}
+
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.imagen-principal{
+    background-image: url(../img/animales.jpg);
+    height: 35rem;
+}
+
+
+
+.categorias h2{
+    color: #19dd23;
+    font-size: 2.5rem;
+}
+
+.categorias a{
+    color: #272121;
+    text-decoration: none;
+}
+
+.img-nosotros{
+    background-image: url(../img/plano.jpg);
+    height: 20;
+
+}
+.nosotros{
+
+}
+
